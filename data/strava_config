@@ -3,5 +3,5 @@
     "access_token"    :"abc"
     , "client_id"     :"4895"
     , "client_secret" :"8e74b47f2877a7dc8c41ed8131de51cbed88d3b8"
-    , "redirect_uri"  :"http://localhost:3000/auth"
+    , "redirect_uri"  :"http://beast-strava.avosapps.com/auth"
 }
