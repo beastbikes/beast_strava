@@ -1,0 +1,34 @@
+{
+  "name": "strava-v3",
+  "version": "1.7.0",
+  "description": "Simple wrapper for strava v3 api",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt jshint simplemocha --force"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajsnapshots/node-strava-v3.git"
+  },
+  "keywords": [
+    "strava",
+    "node",
+    "api"
+  ],
+  "author": "austin brown <austinjbraun@gmail.com> (http://austinjamesbrown.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajsnapshots/node-strava-v3/issues"
+  },
+  "homepage": "https://github.com/ajsnapshots/node-strava-v3",
+  "dependencies": {
+    "request": "^2.44.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-simple-mocha": "^0.4.0",
+    "mocha": "^1.21.4",
+    "should": "^4.0.4"
+  }
+}
