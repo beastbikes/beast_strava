@@ -1,1 +1,1 @@
-# beast_strava
+Cloud code project for beast-strava. Cloud Code Guide: https://cn.avoscloud.com/docs/cloud_code_guide.html
